@@ -22,5 +22,5 @@ print('A'>'a')
 print('A'<='a')
 print('A'>='a')
 print("AB"=="ABC")
-print('AB'<'ABC')
+print('ABC'>'ABC')
       
